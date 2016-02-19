@@ -2,7 +2,7 @@
 ---
 
 Cверстать виджет регистрации:
-* макет в Sketch - social-login.sketch.zip
+* макет - любой на выбор: social-login.sketch.zip или social-login.psd.zip
 * css-фреймворк - Semantic UI/Pure/UIkit;
 * адаптивная верстка по mobile first, минимальная ширина 320px;
 * кросс-браузерность: Chrome, FF, Safari, IE 9+;
